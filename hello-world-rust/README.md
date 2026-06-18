@@ -8,6 +8,12 @@ A minimal Rust "Hello, world!" program.
 cargo run
 ```
 
+## Test
+
+```sh
+cargo test
+```
+
 ## Poem
 
 > A single line, and yet it sings—
